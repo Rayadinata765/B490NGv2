@@ -5,4 +5,4 @@ pkg install python
 pkg install git
 # CARA PAKAI
 cd MRβOY
-ah MRβOY.sh
+sh MRβOY.sh
