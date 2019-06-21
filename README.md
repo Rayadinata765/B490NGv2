@@ -4,5 +4,5 @@ pkg update && pkg upgrade -y
 pkg install python
 pkg install git
 # CARA PAKAI
-cd MRβOY
-sh MRβOY.sh
+cd B490NG
+sh B490NG.sh
