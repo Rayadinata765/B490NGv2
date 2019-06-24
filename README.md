@@ -1,4 +1,4 @@
-# Mr-B490NGv2
+# Mr-Boy
 pkg update && pkg upgrade -y
 # INSTALL DOOLO
 pkg install python
